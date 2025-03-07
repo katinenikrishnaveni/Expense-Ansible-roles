@@ -1,3 +1,3 @@
 BACKEND_HOST: backend.devops82s.online
-#APP_LOCAION: /usr/share/nginx/html
-#COMPONENT: frontend
+APP_LOCAION: /usr/share/nginx/html
+COMPONENT: frontend
