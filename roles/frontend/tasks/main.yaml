@@ -35,7 +35,7 @@
     src: expence.conf.j2
     dest: /etc/nginx/default.d/expense.conf
    notify:  
-   - Restart nginx
+   - Restart Nginx
 
 
  
